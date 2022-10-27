@@ -4,3 +4,5 @@
 3) Combination sum - 3
 4) Combination sum - 4
 5) Subset sums (gfg)
+6) Subsets - 2 (leetcode)
+
