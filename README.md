@@ -4,6 +4,7 @@
 3) Combination sum - 3
 4) Combination sum - 4
 5) Subset sums (gfg)
+6) Subsets (leetcode)
 6) Subsets - 2 (leetcode)
 7) Permutations (leecode , no array duplicates)
 8) Permutations-2 (leetcode , array duplicates)
