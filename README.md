@@ -9,4 +9,6 @@
 7) Permutations (leecode , no array duplicates)
 8) Permutations-2 (leetcode , array duplicates)
 9) Rat in a maze  (gfg)
+10) N queens-1 (leetcode)
+11) N queen-2 (leetcode)
 
