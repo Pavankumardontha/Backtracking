@@ -11,4 +11,7 @@
 9) Rat in a maze  (gfg)
 10) N queens-1 (leetcode)
 11) N queen-2 (leetcode)
+12) Palindrome Partitioning - 1 
+13) Palindrome Partitioning - 2 (DP)
+
 
