@@ -13,5 +13,6 @@
 11) N queen-2 (leetcode)
 12) Palindrome Partitioning - 1 
 13) Palindrome Partitioning - 2 (DP)
+14) Permutation sequence (leetcode)
 
 
